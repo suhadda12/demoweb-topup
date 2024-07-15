@@ -1,2 +1,2 @@
 #!/bin/bash
-hostnamectl > myshotname.txt
+cat /etc/os-release
